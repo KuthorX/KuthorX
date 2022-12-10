@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ByteDance, base Shenzhen
+- 🔭 I’m currently working on ByteDance, base Shanghai
 
 - 🌱 I’m currently learning automator testing, and other interesting things
 
