@@ -10,4 +10,6 @@
 
 - ⚡ Fun fact: I AM Puzzle / Music Enthusiasts 
 
+- ✍️ Recently, I created a fiction, here is [CHN ver - 十万分之二 Two-10000ths](https://kuthorx.github.io/posts/fiction/two-100000ths/) , and the ENG ver is creating. 
+
 ![Stat](https://github-readme-stats.vercel.app/api?username=kuthorx&show_icons=true&theme=default)
