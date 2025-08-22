@@ -6,6 +6,6 @@
 
 ### **Reach**: kuthorx@gmail.com
 
-### **Fact**: I AM Puzzle / Music Enthusiasts, and [《苍绿之眼》](https://kuthorx.github.io/story_of_cloak/) 是一个还在创作中的 HyperText Visual Fiction...
+### **Fact**: I AM Puzzle / Music Enthusiasts, and [《苍绿之眼》](https://kuthorx.github.io/story_of_cloak/) 是一个还在创作中的 HyperText Fiction.
 
 
