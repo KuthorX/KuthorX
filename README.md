@@ -1,11 +1,11 @@
-### Hi there 👋
+# 你好，Hello
 
-- 🌱 I’m currently learning automator testing, and other interesting things
+## LLM is Coming, 所以让我们说中文（？
 
-- 👯 I’m looking to collaborate on skilled person
+### **About**: https://kuthorx.github.io/about/
 
-- 📫 How to reach me: kuthorx@gmail.com
+### **Reach**: kuthorx@gmail.com
 
-- ⚡ Fun fact: I AM Puzzle / Music Enthusiasts 
+### **Fact**: I AM Puzzle / Music Enthusiasts, and [《苍绿之眼》](https://kuthorx.github.io/story_of_cloak/) 是一个还在创作中的 HyperText Visual Fiction...
 
-![Stat](https://github-readme-stats.vercel.app/api?username=kuthorx&show_icons=true&theme=default)
+
