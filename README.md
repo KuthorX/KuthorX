@@ -8,4 +8,4 @@
 
 - ⚡ Fun fact: I AM Puzzle / Music Enthusiasts 
 
-![Stat](https://github-readme-stats.vercel.app/api?username=kuthorx&show_icons=true&theme=default)
+![Stat](https://kuthorx-github-readme-stats.vercel.app/api?username=kuthorx&show_icons=true&theme=default)
