@@ -6,6 +6,8 @@
 
 - 📫 How to reach me: kuthorx@gmail.com
 
-- ⚡ Fun fact: I AM Puzzle / Music Enthusiasts 
+- ⚡ Fun fact: I AM Puzzle / Music Enthusiasts
 
-![Stat](https://kuthorx-github-readme-stats.vercel.app/api?username=kuthorx&show_icons=true&theme=default)
+![Top Langs](https://kuthorx-github-readme-stats.vercel.app/api/top-langs/?username=KuthorX&theme=nord&layout=compact&langs_count=8)
+
+![Stat](https://kuthorx-github-readme-stats.vercel.app/api?username=KuthorX&show_icons=true&theme=nord&include_all_commits=true&rank_icon=default)
