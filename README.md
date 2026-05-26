@@ -1,6 +1,6 @@
 # KuthorX
 
-[My Games](kuthorx.itch.io)
+[My Games](https://kuthorx.itch.io)
 
 Full-Stack Developer · Game Developer · Open-Source Contributor
 
