@@ -1,5 +1,7 @@
 # KuthorX
 
+[My Games](kuthorx.itch.io)
+
 Full-Stack Developer · Game Developer · Open-Source Contributor
 
 I build web products, game prototypes, and developer tools across TypeScript, Phaser, Godot/GDScript, C#, Python, and Hugo.
