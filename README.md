@@ -1,27 +1,25 @@
 # KuthorX
 
-[My Games](https://kuthorx.itch.io)
 
-Full-Stack Developer · Game Developer · Open-Source Contributor
+Full-Stack Developer · [Game Developer](https://kuthorx.itch.io)
 
-I build web products, game prototypes, and developer tools across TypeScript, Phaser, Godot/GDScript, C#, Python, and Hugo.
+I built web products, game prototypes, and developer tools.
 
-My current focus is independent game development, interactive web experiences, and open-source developer tooling.
+## Web Products
 
-## Selected Work
+[Melodio-Web](https://kuthorx.github.io/melodio-web/)
 
-- **Cat Season** — a Phaser 3 browser game built with TypeScript, Vite, Vitest, and Playwright.
-- **Grenyes** — a custom Hugo-based personal archive with original theme design, responsive reading layouts, fiction sections, and long-form technical notes.
-- **Godot Prototypes** — multiple GDScript game experiments covering card games, bullet patterns, roguelike loops, maze mechanics, and music/puzzle interactions.
-- **The Last Case** — a Ren'Py narrative game experiment.
-- **SourceGit Theme** — contributed Solarized Light/Dark themes to `sourcegit-scm/sourcegit-theme`.
-- **XCTraceRunner** — a Python iOS performance test runner with 20+ stars and 8 forks.
-- **DeepSeek QQ Bot** — a C# QQ bot integrated with DeepSeek API.
+Prefered use Rust / Ts / Py.
 
-## Direction
+## Game Prototypes
 
-I am building toward open-source identity, independent development, and game development.
+- [My itch.io](https://kuthorx.itch.io)
 
-![Top Langs](https://kuthorx-github-readme-stats.vercel.app/api/top-langs/?username=KuthorX&theme=nord&layout=compact&langs_count=8)
+- [Grenyes, an Meta-ARG](https://kuthorx.github.io/story_of_cloak/)
 
-![Stat](https://kuthorx-github-readme-stats.vercel.app/api?username=KuthorX&show_icons=true&theme=nord&include_all_commits=true&rank_icon=default)
+Perfered use Godot / Phaser / Love2D.
+
+## Developer tools
+
+- [Agent Skill - design skill](https://github.com/KuthorX/design_skill)
+- [XC Trace Runner](https://github.com/KuthorX/XCTraceRunner)
