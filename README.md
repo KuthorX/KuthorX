@@ -1,7 +1,7 @@
 # [KuthorX](https://kuthorx.github.io/about/)
 
 
-Full-Stack Developer · [Game Developer](https://kuthorx.itch.io) · [Indie Musician](https://www.dizzylab.net/l/K-1647/)
+Full-Stack Developer · Game Developer · Indie Musician
 
 I built web products & game prototypes & developer tools & music.
 
