@@ -1,9 +1,9 @@
-# KuthorX
+# [KuthorX](https://kuthorx.github.io/about/)
 
 
-Full-Stack Developer · [Game Developer](https://kuthorx.itch.io)
+Full-Stack Developer · [Game Developer](https://kuthorx.itch.io) · [Indie Musician](https://www.dizzylab.net/l/K-1647/)
 
-I built web products, game prototypes, and developer tools.
+I built web products & game prototypes & developer tools & music.
 
 ## Web Products
 
@@ -23,3 +23,8 @@ Perfered use Godot / Phaser / Love2D.
 
 - [Agent Skill - design skill](https://github.com/KuthorX/design_skill)
 - [XC Trace Runner](https://github.com/KuthorX/XCTraceRunner)
+
+## Music
+
+- [Albums of K-1647](https://www.dizzylab.net/l/K-1647/)
+- [Netease Pages](https://music.163.com/artist?id=12065117)
